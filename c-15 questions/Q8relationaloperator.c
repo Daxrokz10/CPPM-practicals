@@ -23,7 +23,7 @@ int main(){
         printf("%d  is greater than %d \n",a,b);
     }
     else{
-        printf("%d  is lesser than %d \n",b,a);
+        printf("%d  is lesser than %d \n",a,b);
     }
 
     //to check greater or equal to
@@ -31,12 +31,12 @@ int main(){
         printf("%d is greater than or equal to %d \n",a,b);
     }
     else{
-        printf("%d is not greater than or equal to %d \n",b,a);
+        printf("%d is not greater than or equal to %d \n",a,b);
     }
 
     //to check lesser than or equal to
     if(a<=b){
-        printf("%d is lesser than or equal to %d \n",b,a);
+        printf("%d is lesser than or equal to %d \n",a,b);
     }
     else{
         printf("%d is not lesser than or equal to %d \n",a,b);
