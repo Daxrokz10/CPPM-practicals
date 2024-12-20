@@ -6,7 +6,7 @@ int main(){
     int i;
 
     for(i=0;i<10;i++){
-        printf("Enter value for elemt %d: ",i);
+        printf("Enter value for element %d: ",i);
         scanf("%d",&array_one[i]);
     }
     for(i=0;i<10;i++){
