@@ -6,7 +6,7 @@ int main() {
 
     printf("First 15 terms of the Fibonacci sequence:\n");
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i <= n; i++) {
         if (i == 0) { // Use == for comparison
             printf("%d ", fib1); // Print the first term
         } else if (i == 1) { // Use == for comparison
